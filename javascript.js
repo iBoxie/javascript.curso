@@ -2,7 +2,7 @@
 // - Javascript es sensible a mayusculas y minisculas.
 // - Respetar la sintaxis de tipo camel case. getElementById
 // - Punto y coma al final de cada sentancia.
-// Comentariode tipo linea
+// Comentario de tipo linea
 /* 
     Comentarios de varias lineas
     (tipo bloque)
