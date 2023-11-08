@@ -23,8 +23,8 @@ numero2--;
 
         += Suma un numero al valor de una variable.
         -= Resta un numero al valor de una variable.
-        *= Resta un numero al valor de una variable.
-        /= Resta un numero al valor de una variable.
+        *= Multiplica un numero al valor de una variable.
+        /= Divide un numero al valor de una variable.
         %= Obtiene el sobrante de una division y lo asigna a la variable.
 
 */
