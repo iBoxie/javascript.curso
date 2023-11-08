@@ -15,3 +15,5 @@ const codigoAcceso = boleto === 'vip' ? 'VIP-123-456' : 'REGULAR-456-789';
 
 
 boleto === 'vip' ? console.log('Tu boleto es de tipo VIP') : console.log('Tu codigo es de tipo REGULAR');
+
+// Se usa para hacer condiciones de if/else tratando de compactar el código.
