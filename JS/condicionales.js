@@ -1,4 +1,4 @@
-/* Operadores de comparacion:
+/* 📌 Operadores de comparacion:
 
         ==      Igual que
         ===     Igual en valor y type de valor
@@ -12,7 +12,7 @@
 
 */
 
-/* Operadores lógicos
+/* 📌 Operadores lógicos
 
         &&  and
         ||  or
@@ -20,14 +20,14 @@
 
 */
 
-// Estructura de una condicional
+// 📌 Estructura de una condicional
 
 //if (true/lo que vamos a preguntar) {
 // Código a ejectuar
 // }
 
 
-// Ejemplo #1
+// 📌 Ejemplo #1
 // const usuario = {
 //     edad: 17,
 //     pais: 'México',
@@ -37,7 +37,7 @@
 //     console.log('El ususario es menor de edad y tiene ticket')
 // }
 
-// Ejemplo #2 combinando operadores
+// 📌 Ejemplo #2 combinando operadores
 // if (usuario.edad >= 18 && usuario.ticket) {
 //     console.log('El usuario es mayor de edad y tiene un ticket');
 
@@ -45,7 +45,7 @@
 //     console.log('El usuario es menor de edad o no tiene un ticket');
 // }
 
-// Ejemplo #3 - Anindando condicionales
+//  📌 Ejemplo #3 - Anindando condicionales
 // const usuario = {
 //     edad: 27,
 //     pais: 'México',
@@ -62,7 +62,7 @@
 //     console.log('El ususario es menor de edad')
 // }
 
-// Ejemplo #4 -elseif
+// 📌 Ejemplo #4 -elseif
 const usuario = {
     edad: 27,
     pais: 'Argentina',
