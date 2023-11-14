@@ -1,6 +1,6 @@
 // 📌 Notas importantes:
 // - Javascript es sensible a mayusculas y minisculas.
-// - Respetar la sintaxis de tipo camel case. getElementById
+// - Respetar la sintaxis de tipo camelCase. getElementById
 // - Punto y coma al final de cada sentancia.
 // Comentario de tipo linea
 /* 
