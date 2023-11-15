@@ -6,8 +6,8 @@
         * Multiplicacion
         / Division
         % Modulo
-        ++ Aumentar
-        -- Disminuir
+        ++ Aumentar en 1 
+        -- Disminuir en 1
 
 */
  

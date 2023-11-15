@@ -62,7 +62,7 @@
 //     console.log('El ususario es menor de edad')
 // }
 
-// 📌 Ejemplo #4 -elseif
+// 📌 Ejemplo #4 -else if
 const usuario = {
     edad: 27,
     pais: 'Argentina',
