@@ -1,4 +1,4 @@
-/* 📌 Operadires aritmeticos:
+/* 📌 Operadores aritmeticos:
 
         = Operadir de asignación. Se usa para asignar valores a una variable
         + Sumar
@@ -6,8 +6,8 @@
         * Multiplicacion
         / Division
         % Modulo
-        ++ Aumentar
-        -- Disminuir
+        ++ Aumentar en 1 
+        -- Disminuir en 1
 
 */
  

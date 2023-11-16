@@ -3,7 +3,7 @@ function saludo(){
     console.log('Hola!');
 }
 
-// 📌 Forma #2 - Aisgnando una función a una variable
+// 📌 Forma #2 - Asignando una función a una variable
 const saludo = function(){
     console.log('Hola desde variable');
 };
