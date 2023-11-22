@@ -6,7 +6,7 @@
 
     for (let i = 0; i < nombres.length; i++) {
         if(nombres[i][0] !== 'C'){
-            console.log('ALTO! Hay un nombe que no empieza por la letra C')
+            console.log('ALTO! Hay un nombre que no empieza por la letra C')
             console.log(nombres[i] + ' no empieza por la letra C')
             break;
         }
