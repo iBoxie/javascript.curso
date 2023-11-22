@@ -17,4 +17,8 @@ for (let numero = 1; numero <= 100; numero++) {
     console.log(numero);
 };
 
+for (let index = 0; index < nombres.length; index++) {
+    
 
+    console.log(nombres[index])
+}

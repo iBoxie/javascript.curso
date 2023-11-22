@@ -63,7 +63,7 @@ console.log(colores); // aparece [rojo, verde, azul] elimina el color negro
 const dias = ["lunes", "martes", "miercoles", "jueves", "viernes"];
 const diaEliminado = dias.shift();
 console.log(diaEliminado); // aparece el día eliminado
-console.log(dias[0]); // me muetra el siguiente dia despues del eliminado este caso 'Martes'
+console.log(dias[0]); // me muestra el siguiente dia despues del eliminado este caso 'Martes'
 
 /* 📌 .unshift()
     Agrega un elemento al inicio del arreglo y empuja los elementos.
